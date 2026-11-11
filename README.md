@@ -24,7 +24,7 @@ My Favorites is a personal collection of things I love, presented through a clea
 
 ## 📸 Project Preview
 
-![Favorites Preview](screenshots/favorites-preview.png)
+![Favorites Preview](favorites-preview.png)
 
 ## 🚀 How to Run
 
